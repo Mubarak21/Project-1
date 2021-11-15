@@ -44,13 +44,13 @@ else:
     letter_grade = "F"
 
 for grade in grades:
-    print("Exam: " + str(grade))
+    print("Exam: " + str(grades))
 
     print("Average: " + str(avg))
 
     print("Grade: " + letter_grade)
 
-if letter-grade is "F":
+if letter_grade == "F":
     print ("Student is failing.")
 else:
     print ("Student is passing.")
