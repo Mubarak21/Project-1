@@ -27,7 +27,7 @@ exam_3 = int(input("Input exam grade three: "))
 
 grades = [exam_one, exam_two, exam_3]
 sum = 0
-for grade in grade:
+for grade in grades:
   sum = sum + grade
 
 avg = sum / len(grades)
