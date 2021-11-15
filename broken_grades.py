@@ -26,11 +26,11 @@ exam_two = input("Input exam grade two: ")
 exam_3 = int(input("Input exam grade three: "))
 
 grades = [exam_one, exam_two, exam_3]
-sum = 0
+sumNum = 0
 for grade in grades:
-  sum = sum + grade
+  sumNum = sumNum + grade
 
-avg = sum / len(grades)
+avg = sumNum / len(grades)
 
 if avg >= 90:
     letter_grade = "A"
