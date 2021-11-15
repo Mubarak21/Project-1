@@ -34,7 +34,7 @@ avg = sum / len(grades)
 
 if avg >= 90:
     letter_grade = "A"
-elif avg >= 80 and avg < 90
+elif avg >= 80 and avg < 90:
     letter_grade = "B"
 elif avg > 69 and avg < 80:
     letter_grade = "C'
