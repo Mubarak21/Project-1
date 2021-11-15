@@ -51,6 +51,6 @@ for grade in grades:
     print("Grade: " + letter_grade)
 
 if letter-grade is "F":
-    print "Student is failing."
+    print ("Student is failing.")
 else:
-    print "Student is passing."
+    print ("Student is passing.")
