@@ -43,7 +43,7 @@ elif avg <= 69 and avg >= 60:
 else:
     letter_grade = "F"
 
-for grade in grades:
+for grade in range(1):
     print("Exam: " + str(grades))
 
     print("Average: " + str(avg))
