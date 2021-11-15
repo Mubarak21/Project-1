@@ -6,6 +6,7 @@ def apples():
     TotalApples= num* 2
     TotalPrice.append(TotalApples)
     print(TotalApples, "dirhams  is the price of", num, " apples")
+    
 
 def bananas():
     num2= int(input("How many bananas do you need?"))
