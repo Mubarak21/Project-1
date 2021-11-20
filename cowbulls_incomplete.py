@@ -2,7 +2,7 @@ import random
 
 def compare_numbers(number, user_guess):
     ## your code here
-    return cowbull
+    return number
 
 playing = True #gotta play the game
 number = str(random.randint(0,9999)) #random 4 digit number
